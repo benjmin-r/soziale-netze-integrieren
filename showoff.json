@@ -1,0 +1,19 @@
+{
+  "name": "Soziale Netze Integrieren",
+  "description": "",
+  "sections": [
+    "title",
+    "intro",
+    "# Theorie",
+    "distributed-systems",
+    "# Probleme",
+    "problems",
+    "# Lösungen",
+    "how_to",
+    "# Zusammenfassung",
+    "recap",
+    "# Das war's",
+    "# Fragen?",
+    "who_am_i"
+  ]
+}
